@@ -1,0 +1,28 @@
+name: Make Reception
+favicon: null
+layout_spectrum: 0.41384156327694654
+typography_spectrum: 0.05875915801152587
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5872327813412994
+  lightness: 0.273523025913164
+  saturation: 0.0812944935169071
+  rhythmicContrast: 0.37093278719112277
+purpose: []
