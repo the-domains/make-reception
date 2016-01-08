@@ -1,28 +1,40 @@
-name: Make Reception
 favicon: null
-layout_spectrum: 0.41384156327694654
-typography_spectrum: 0.05875915801152587
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Make Reception
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+  saturation: 0.0812944935169071
   brandStrength: 0.5872327813412994
   lightness: 0.273523025913164
-  saturation: 0.0812944935169071
-  rhythmicContrast: 0.37093278719112277
-purpose: []
+  brandColors:
+    - '#DED9CF'
+    - '#202630'
+    - '#A4C5F2'
+    - '#7899D1'
+    - '#535B6E'
+  rhythmicContrast: 0.3709327871911228
+typography_spectrum: 0.05875915801152587
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.4138415632769465
+analytics:
+  twitter: null
+  google: null
+  facebook: null
