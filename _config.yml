@@ -1,5 +1,7 @@
-favicon: null
-name: Make Reception
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -18,23 +20,21 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.0812944935169071
+  saturation: 0.5702128
+  lightness: 0.5127659
   brandStrength: 0.5872327813412994
-  lightness: 0.273523025913164
   brandColors:
     - '#DED9CF'
     - '#202630'
     - '#A4C5F2'
     - '#7899D1'
     - '#535B6E'
-  rhythmicContrast: 0.3709327871911228
-typography_spectrum: 0.05875915801152587
+  rhythmicContrast: 0.5489362
+typography_spectrum: 0.8276595
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.4138415632769465
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+layout_spectrum: 0.8765957
+favicon: null
+name: Make Reception
